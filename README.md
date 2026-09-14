@@ -83,17 +83,11 @@ Full-featured e-commerce platform with separate backend, mobile, and web compone
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezedin130&show_icons=true&theme=dark)
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 I'm always interested in discussing new projects, learning from other developers, and exploring exciting opportunities. Feel free to reach out!
 
-**[Email](mailto:your-email@example.com) • [LinkedIn](https://linkedin.com/in/your-profile) • [Twitter](https://twitter.com/your-handle)**
+**[Email](mailto:ezedinawol130@gmail.com) • [LinkedIn](https://www.linkedin.com/in/ezedin-awol-4809693a1/) • [GitHub](https://github.com/ezedin130)**
 
 ---
 
